@@ -1,9 +1,3 @@
-### Denis Shakhov
-
-Software Engineer (Node.js)
-
-[![Gmail](https://img.shields.io/badge/-denshakhovse-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:denshakhovse@gmail.com)](mailto:denshakhovse@gmail.com)
-
 ### Tech stack
 
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
@@ -16,6 +10,8 @@ Software Engineer (Node.js)
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat-square&logo=RabbitMQ&logoColor=white)
 ![Nginx](https://img.shields.io/badge/-Nginx-269539?style=flat-square&logo=nginx&logoColor=white)<br>
 ![Bash](https://img.shields.io/badge/-Bash-black?style=flat-square&logo=gnu-bash)
+![C](https://img.shields.io/badge/-c-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![Arch](https://img.shields.io/badge/-Arch-1793D1?style=flat-square&logo=Arch-Linux&logoColor=white)
 ![Debian](https://img.shields.io/badge/-Debian-A81D33?style=flat-square&logo=Debian)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
